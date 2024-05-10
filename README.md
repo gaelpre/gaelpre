@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**gaelpre/gaelpre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e gabriel Ruan
+ 
+- Estou estudando no [Alura](https ://www.alura.com.br)
+- Eu estou aprendendo uma nova linguaguem Javascrit
+- Ultilizo este espaco para minha organizacao e compartilhamento dos meus projetos desenvouvidos
 
-Here are some ideas to get you started:
+ ###voce pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ gruan9532@gmail.com
+
+ @gael.nura
+
+![](https://media1.tenor.com/m/uO37-aKreAEAAAAC/kakashi-naruto.gif)
